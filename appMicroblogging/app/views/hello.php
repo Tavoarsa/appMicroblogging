@@ -14,7 +14,7 @@
 		}
 
 		.welcome {
-			widt: 500px;
+			widt: 300px;
 			height: 200px;
 			position: absolute;
 			left: 50%;
